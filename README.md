@@ -5,7 +5,7 @@ Run the application:
   
 Port: http://localhost:5173/  
   
-Contain basic function like adding, deleting, and editing.  
+Contain basic functions like adding, deleting, and editing.  
   
 Result looks like this:  
 <img width="432" height="436" alt="image" src="https://github.com/user-attachments/assets/abfe5817-2e29-41cf-b1a0-018c74f2f738" />  
